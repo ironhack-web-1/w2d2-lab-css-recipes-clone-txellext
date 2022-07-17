@@ -1,0 +1,30 @@
+html,
+body {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+header {
+    background-image: url(../../apple-pie/images/apple-pie.jpg);
+    height: 70vh;
+    width: 80vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    margin: auto;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-weight: 300;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+
+#section1 {
+    text-align: center;
+}
